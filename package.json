@@ -1,9 +1,9 @@
 {
-  "name": "web-portfolio-lukman",
+  "name": "web-portfolio-abdurrasyid",
   "version": "1.0.0",
   "description": "Webiste for my portfolio created with TailwindCSS and AOS",
   "main": "index.js",
-  "author": "Lukman",
+  "author": "O'cheat",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
