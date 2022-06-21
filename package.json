@@ -1,0 +1,18 @@
+{
+  "name": "web-portfolio-lukman",
+  "version": "1.0.0",
+  "description": "Webiste for my portfolio created with TailwindCSS and AOS",
+  "main": "index.js",
+  "author": "Lukman",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "prettier-plugin-tailwindcss": "^0.1.8",
+    "tailwindcss": "^3.0.23"
+  }
+}
